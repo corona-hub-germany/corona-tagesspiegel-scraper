@@ -1,0 +1,35 @@
+{
+  "name": "corona-tagesspiegel-scraper",
+  "version": "0.1.0",
+  "description": "Scrape corona case-data from interactive.zeit.de",
+  "main": "src/ZeitCoronaDataScraper.js",
+  "scripts": {
+    "start": "serverless offline",
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojoaxel/corona-tagesspiegel-scraper.git"
+  },
+  "keywords": [
+    "corona",
+    "germany"
+  ],
+  "author": "Alexander Wunschik <dev@wunschik.net>",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/mojoaxel/corona-tagesspiegel-scraper/issues"
+  },
+  "homepage": "https://github.com/mojoaxel/corona-tagesspiegel-scraper#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "fs-extra": "^9.0.0",
+    "moment": "^2.24.0",
+    "papaparse": "^5.2.0",
+    "system-notifier": "^1.0.1"
+  },
+  "devDependencies": {
+    "serverless-offline": "^6.1.4"
+  }
+}

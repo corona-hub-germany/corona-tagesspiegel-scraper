@@ -1,0 +1,22 @@
+service: corona-tagesspiegel-scraper
+
+plugins:
+  - serverless-offline
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+  stage: dev
+  region: eu-central-1
+
+package:
+  include:
+    - src/**
+
+functions:
+  getTagesspiegelData:
+    handler: handler.getTagesspiegelData
+    events:
+      - http:
+          path: getTagesspiegelData
+          method: get

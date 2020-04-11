@@ -1,0 +1,3719 @@
+[
+  {
+    "ags": "01001",
+    "name": "Flensburg, Stadt",
+    "area": 56.73,
+    "population_male": 44599,
+    "population_female": 44905,
+    "population_density_km": 1578,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "01002",
+    "name": "Kiel, Landeshauptstadt",
+    "area": 118.65,
+    "population_male": 120566,
+    "population_female": 126982,
+    "population_density_km": 2086,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "01003",
+    "name": "Lübeck, Hansestadt",
+    "area": 214.19,
+    "population_male": 104371,
+    "population_female": 112827,
+    "population_density_km": 1014,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "01004",
+    "name": "Neumünster, Stadt",
+    "area": 71.66,
+    "population_male": 39241,
+    "population_female": 40246,
+    "population_density_km": 1109,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "01051",
+    "name": "Dithmarschen",
+    "area": 1428.1799999999996,
+    "population_male": 65720,
+    "population_female": 67490,
+    "population_density_km": 11048,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "01053",
+    "name": "Herzogtum Lauenburg",
+    "area": 1263.0699999999997,
+    "population_male": 96881,
+    "population_female": 100383,
+    "population_density_km": 19353,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "01054",
+    "name": "Nordfriesland",
+    "area": 2083.53,
+    "population_male": 81099,
+    "population_female": 84408,
+    "population_density_km": 11553,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "01055",
+    "name": "Ostholstein",
+    "area": 1393.0,
+    "population_male": 96765,
+    "population_female": 103816,
+    "population_density_km": 6177,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "01056",
+    "name": "Pinneberg",
+    "area": 664.27,
+    "population_male": 154211,
+    "population_female": 160180,
+    "population_density_km": 20330,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "01057",
+    "name": "Plön",
+    "area": 1083.5599999999997,
+    "population_male": 62532,
+    "population_female": 66115,
+    "population_density_km": 12380,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "01058",
+    "name": "Rendsburg-Eckernförde",
+    "area": 2189.7799999999993,
+    "population_male": 134109,
+    "population_female": 138666,
+    "population_density_km": 22205,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "01059",
+    "name": "Schleswig-Flensburg",
+    "area": 2071.330000000001,
+    "population_male": 99092,
+    "population_female": 100933,
+    "population_density_km": 11546,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "01060",
+    "name": "Segeberg",
+    "area": 1344.4700000000003,
+    "population_male": 136517,
+    "population_female": 139515,
+    "population_density_km": 15394,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "01061",
+    "name": "Steinburg",
+    "area": 1055.6999999999998,
+    "population_male": 64923,
+    "population_female": 66424,
+    "population_density_km": 13134,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "01062",
+    "name": "Stormarn",
+    "area": 766.2199999999999,
+    "population_male": 118831,
+    "population_female": 124365,
+    "population_density_km": 14119,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "02000",
+    "name": "Hamburg, Freie und Hansestadt",
+    "area": 755.09,
+    "population_male": 902048,
+    "population_female": 939131,
+    "population_density_km": 2438,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03101",
+    "name": "Braunschweig, Stadt",
+    "area": 192.7,
+    "population_male": 122985,
+    "population_female": 125307,
+    "population_density_km": 1288,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03102",
+    "name": "Salzgitter, Stadt",
+    "area": 224.49,
+    "population_male": 52202,
+    "population_female": 52746,
+    "population_density_km": 467,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03103",
+    "name": "Wolfsburg, Stadt",
+    "area": 204.61,
+    "population_male": 61820,
+    "population_female": 62331,
+    "population_density_km": 607,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03151",
+    "name": "Gifhorn",
+    "area": 1567.4500000000003,
+    "population_male": 88035,
+    "population_female": 87885,
+    "population_density_km": 5730,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03153",
+    "name": "Goslar",
+    "area": 966.7299999999999,
+    "population_male": 67834,
+    "population_female": 69180,
+    "population_density_km": 1918,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03154",
+    "name": "Helmstedt",
+    "area": 676.1199999999998,
+    "population_male": 45241,
+    "population_female": 46066,
+    "population_density_km": 2856,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03155",
+    "name": "Northeim",
+    "area": 1268.76,
+    "population_male": 65445,
+    "population_female": 67320,
+    "population_density_km": 1304,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03157",
+    "name": "Peine",
+    "area": 536.5,
+    "population_male": 66286,
+    "population_female": 67679,
+    "population_density_km": 1749,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03158",
+    "name": "Wolfenbüttel",
+    "area": 724.2799999999999,
+    "population_male": 59370,
+    "population_female": 60590,
+    "population_density_km": 3731,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03159",
+    "name": "Göttingen",
+    "area": 1755.3899999999999,
+    "population_male": 161187,
+    "population_female": 166887,
+    "population_density_km": 6152,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03241",
+    "name": "Region Hannover",
+    "area": 2297.1299999999997,
+    "population_male": 567201,
+    "population_female": 590423,
+    "population_density_km": 10733,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03251",
+    "name": "Diepholz",
+    "area": 1990.99,
+    "population_male": 107853,
+    "population_female": 109033,
+    "population_density_km": 4077,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03252",
+    "name": "Hameln-Pyrmont",
+    "area": 797.53,
+    "population_male": 71840,
+    "population_female": 76719,
+    "population_density_km": 1541,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03254",
+    "name": "Hildesheim",
+    "area": 1208.3500000000004,
+    "population_male": 134912,
+    "population_female": 141682,
+    "population_density_km": 4349,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03255",
+    "name": "Holzminden",
+    "area": 694.27,
+    "population_male": 35187,
+    "population_female": 35788,
+    "population_density_km": 3391,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03256",
+    "name": "Nienburg (Weser)",
+    "area": 1400.82,
+    "population_male": 60400,
+    "population_female": 60986,
+    "population_density_km": 3411,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03257",
+    "name": "Schaumburg",
+    "area": 675.6600000000001,
+    "population_male": 77174,
+    "population_female": 80607,
+    "population_density_km": 9977,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03351",
+    "name": "Celle",
+    "area": 1550.82,
+    "population_male": 88054,
+    "population_female": 90882,
+    "population_density_km": 2669,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03352",
+    "name": "Cuxhaven",
+    "area": 2058.96,
+    "population_male": 97044,
+    "population_female": 101169,
+    "population_density_km": 2281,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03353",
+    "name": "Harburg",
+    "area": 1248.4500000000003,
+    "population_male": 124502,
+    "population_female": 128274,
+    "population_density_km": 6673,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03354",
+    "name": "Lüchow-Dannenberg",
+    "area": 1227.19,
+    "population_male": 23839,
+    "population_female": 24585,
+    "population_density_km": 1048,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03355",
+    "name": "Lüneburg",
+    "area": 1327.8099999999997,
+    "population_male": 89543,
+    "population_female": 93829,
+    "population_density_km": 6629,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03356",
+    "name": "Osterholz",
+    "area": 652.6700000000001,
+    "population_male": 55765,
+    "population_female": 57752,
+    "population_density_km": 1789,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03357",
+    "name": "Rotenburg (Wümme)",
+    "area": 2074.7799999999993,
+    "population_male": 82132,
+    "population_female": 81323,
+    "population_density_km": 3886,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03358",
+    "name": "Heidekreis",
+    "area": 1881.4599999999998,
+    "population_male": 69757,
+    "population_female": 69998,
+    "population_density_km": 1772,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03359",
+    "name": "Stade",
+    "area": 1267.4,
+    "population_male": 101043,
+    "population_female": 102059,
+    "population_density_km": 5697,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03360",
+    "name": "Uelzen",
+    "area": 1462.6000000000004,
+    "population_male": 45241,
+    "population_female": 47331,
+    "population_density_km": 1518,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03361",
+    "name": "Verden",
+    "area": 789.34,
+    "population_male": 67166,
+    "population_female": 69626,
+    "population_density_km": 1956,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03401",
+    "name": "Delmenhorst, Stadt",
+    "area": 62.45,
+    "population_male": 38437,
+    "population_female": 39170,
+    "population_density_km": 1243,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03402",
+    "name": "Emden, Stadt",
+    "area": 112.34,
+    "population_male": 25084,
+    "population_female": 25111,
+    "population_density_km": 447,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03403",
+    "name": "Oldenburg (Oldenburg), Stadt",
+    "area": 103.09,
+    "population_male": 80501,
+    "population_female": 87709,
+    "population_density_km": 1632,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03404",
+    "name": "Osnabrück, Stadt",
+    "area": 119.8,
+    "population_male": 79756,
+    "population_female": 84992,
+    "population_density_km": 1375,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03405",
+    "name": "Wilhelmshaven, Stadt",
+    "area": 107.07,
+    "population_male": 37596,
+    "population_female": 38682,
+    "population_density_km": 712,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03451",
+    "name": "Ammerland",
+    "area": 730.6400000000001,
+    "population_male": 60658,
+    "population_female": 63413,
+    "population_density_km": 1029,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03452",
+    "name": "Aurich",
+    "area": 1287.3400000000001,
+    "population_male": 93555,
+    "population_female": 96293,
+    "population_density_km": 4401,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03453",
+    "name": "Cloppenburg",
+    "area": 1420.3499999999997,
+    "population_male": 85707,
+    "population_female": 83641,
+    "population_density_km": 1692,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03454",
+    "name": "Emsland",
+    "area": 2883.64,
+    "population_male": 165784,
+    "population_female": 159873,
+    "population_density_km": 5101,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03455",
+    "name": "Friesland",
+    "area": 609.54,
+    "population_male": 48064,
+    "population_female": 50396,
+    "population_density_km": 1606,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03456",
+    "name": "Grafschaft Bentheim",
+    "area": 981.8100000000002,
+    "population_male": 68305,
+    "population_female": 68206,
+    "population_density_km": 2860,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03457",
+    "name": "Leer",
+    "area": 1085.7,
+    "population_male": 84810,
+    "population_female": 84999,
+    "population_density_km": 2986,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03458",
+    "name": "Oldenburg",
+    "area": 1064.83,
+    "population_male": 64574,
+    "population_female": 65570,
+    "population_density_km": 1508,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03459",
+    "name": "Osnabrück",
+    "area": 2121.7999999999997,
+    "population_male": 177430,
+    "population_female": 179913,
+    "population_density_km": 6839,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03460",
+    "name": "Vechta",
+    "area": 814.1999999999999,
+    "population_male": 71595,
+    "population_female": 70003,
+    "population_density_km": 1712,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03461",
+    "name": "Wesermarsch",
+    "area": 824.76,
+    "population_male": 44410,
+    "population_female": 44214,
+    "population_density_km": 1256,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "03462",
+    "name": "Wittmund",
+    "area": 656.84,
+    "population_male": 27919,
+    "population_female": 28963,
+    "population_density_km": 1828,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "04011",
+    "name": "Bremen, Stadt",
+    "area": 317.83,
+    "population_male": 281336,
+    "population_female": 288016,
+    "population_density_km": 1791,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "04012",
+    "name": "Bremerhaven, Stadt",
+    "area": 101.53,
+    "population_male": 56699,
+    "population_female": 56935,
+    "population_density_km": 1119,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05111",
+    "name": "Düsseldorf, Stadt",
+    "area": 217.41,
+    "population_male": 299315,
+    "population_female": 319979,
+    "population_density_km": 2849,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05112",
+    "name": "Duisburg, Stadt",
+    "area": 232.8,
+    "population_male": 246588,
+    "population_female": 252002,
+    "population_density_km": 2142,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05113",
+    "name": "Essen, Stadt",
+    "area": 210.34,
+    "population_male": 283005,
+    "population_female": 300104,
+    "population_density_km": 2772,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05114",
+    "name": "Krefeld, Stadt",
+    "area": 137.77,
+    "population_male": 110745,
+    "population_female": 116275,
+    "population_density_km": 1648,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05116",
+    "name": "Mönchengladbach, Stadt",
+    "area": 170.47,
+    "population_male": 128655,
+    "population_female": 132799,
+    "population_density_km": 1534,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05117",
+    "name": "Mülheim an der Ruhr, Stadt",
+    "area": 91.28,
+    "population_male": 82387,
+    "population_female": 88493,
+    "population_density_km": 1872,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05119",
+    "name": "Oberhausen, Stadt",
+    "area": 77.09,
+    "population_male": 103612,
+    "population_female": 107217,
+    "population_density_km": 2735,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05120",
+    "name": "Remscheid, Stadt",
+    "area": 74.52,
+    "population_male": 54664,
+    "population_female": 56330,
+    "population_density_km": 1489,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05122",
+    "name": "Solingen, Klingenstadt",
+    "area": 89.54,
+    "population_male": 77471,
+    "population_female": 81889,
+    "population_density_km": 1780,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05124",
+    "name": "Wuppertal, Stadt",
+    "area": 168.39,
+    "population_male": 173687,
+    "population_female": 180695,
+    "population_density_km": 2105,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05154",
+    "name": "Kleve",
+    "area": 1232.9900000000002,
+    "population_male": 154628,
+    "population_female": 156346,
+    "population_density_km": 3840,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05158",
+    "name": "Mettmann",
+    "area": 407.21000000000004,
+    "population_male": 234705,
+    "population_female": 250979,
+    "population_density_km": 12855,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05162",
+    "name": "Rhein-Kreis Neuss",
+    "area": 576.28,
+    "population_male": 219214,
+    "population_female": 231793,
+    "population_density_km": 6101,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05166",
+    "name": "Viersen",
+    "area": 563.27,
+    "population_male": 145913,
+    "population_female": 153022,
+    "population_density_km": 4623,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05170",
+    "name": "Wesel",
+    "area": 1042.8100000000002,
+    "population_male": 224137,
+    "population_female": 235672,
+    "population_density_km": 6818,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05314",
+    "name": "Bonn, Stadt",
+    "area": 141.06,
+    "population_male": 156328,
+    "population_female": 170930,
+    "population_density_km": 2320,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05315",
+    "name": "Köln, Stadt",
+    "area": 405.01,
+    "population_male": 529368,
+    "population_female": 556296,
+    "population_density_km": 2681,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05316",
+    "name": "Leverkusen, Stadt",
+    "area": 78.87,
+    "population_male": 79787,
+    "population_female": 84051,
+    "population_density_km": 2077,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05334",
+    "name": "Städteregion Aachen",
+    "area": 706.92,
+    "population_male": 280162,
+    "population_female": 275303,
+    "population_density_km": 8314,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05358",
+    "name": "Düren",
+    "area": 941.49,
+    "population_male": 130761,
+    "population_female": 132961,
+    "population_density_km": 4088,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05362",
+    "name": "Rhein-Erft-Kreis",
+    "area": 704.7,
+    "population_male": 230062,
+    "population_female": 240027,
+    "population_density_km": 8121,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05366",
+    "name": "Euskirchen",
+    "area": 1248.72,
+    "population_male": 95124,
+    "population_female": 97716,
+    "population_density_km": 1754,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05370",
+    "name": "Heinsberg",
+    "area": 627.92,
+    "population_male": 125849,
+    "population_female": 128473,
+    "population_density_km": 4277,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05374",
+    "name": "Oberbergischer Kreis",
+    "area": 918.8399999999999,
+    "population_male": 134069,
+    "population_female": 138402,
+    "population_density_km": 4080,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05378",
+    "name": "Rheinisch-Bergischer Kreis",
+    "area": 437.32000000000005,
+    "population_male": 137572,
+    "population_female": 145883,
+    "population_density_km": 5034,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05382",
+    "name": "Rhein-Sieg-Kreis",
+    "area": 1153.2100000000003,
+    "population_male": 294093,
+    "population_female": 305687,
+    "population_density_km": 11897,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05512",
+    "name": "Bottrop, Stadt",
+    "area": 100.61,
+    "population_male": 57101,
+    "population_female": 60282,
+    "population_density_km": 1167,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05513",
+    "name": "Gelsenkirchen, Stadt",
+    "area": 104.94,
+    "population_male": 129778,
+    "population_female": 130876,
+    "population_density_km": 2484,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05515",
+    "name": "Münster, Stadt",
+    "area": 303.28,
+    "population_male": 150836,
+    "population_female": 163483,
+    "population_density_km": 1036,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05554",
+    "name": "Borken",
+    "area": 1420.9499999999998,
+    "population_male": 185195,
+    "population_female": 185481,
+    "population_density_km": 4153,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05558",
+    "name": "Coesfeld",
+    "area": 1112.0399999999997,
+    "population_male": 108564,
+    "population_female": 111365,
+    "population_density_km": 2143,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05562",
+    "name": "Recklinghausen",
+    "area": 761.32,
+    "population_male": 300019,
+    "population_female": 315242,
+    "population_density_km": 10460,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05566",
+    "name": "Steinfurt",
+    "area": 1795.7599999999998,
+    "population_male": 222633,
+    "population_female": 224981,
+    "population_density_km": 5556,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05570",
+    "name": "Warendorf",
+    "area": 1319.42,
+    "population_male": 137298,
+    "population_female": 140485,
+    "population_density_km": 2660,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05711",
+    "name": "Bielefeld, Stadt",
+    "area": 258.83,
+    "population_male": 161078,
+    "population_female": 172708,
+    "population_density_km": 1290,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05754",
+    "name": "Gütersloh",
+    "area": 969.2099999999997,
+    "population_male": 181844,
+    "population_female": 182239,
+    "population_density_km": 4554,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05758",
+    "name": "Herford",
+    "area": 450.41,
+    "population_male": 122959,
+    "population_female": 127824,
+    "population_density_km": 4945,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05762",
+    "name": "Höxter",
+    "area": 1201.42,
+    "population_male": 70059,
+    "population_female": 70608,
+    "population_density_km": 1156,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05766",
+    "name": "Lippe",
+    "area": 1246.1899999999998,
+    "population_male": 170965,
+    "population_female": 177426,
+    "population_density_km": 4443,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05770",
+    "name": "Minden-Lübbecke",
+    "area": 1152.42,
+    "population_male": 153305,
+    "population_female": 157405,
+    "population_density_km": 3513,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05774",
+    "name": "Paderborn",
+    "area": 1246.78,
+    "population_male": 153622,
+    "population_female": 153268,
+    "population_density_km": 2363,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05911",
+    "name": "Bochum, Stadt",
+    "area": 145.66,
+    "population_male": 177699,
+    "population_female": 186929,
+    "population_density_km": 2503,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05913",
+    "name": "Dortmund, Stadt",
+    "area": 280.71,
+    "population_male": 288386,
+    "population_female": 298624,
+    "population_density_km": 2091,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05914",
+    "name": "Hagen, Stadt der FernUniversität",
+    "area": 160.45,
+    "population_male": 92168,
+    "population_female": 96646,
+    "population_density_km": 1177,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05915",
+    "name": "Hamm, Stadt",
+    "area": 226.43,
+    "population_male": 88024,
+    "population_female": 91087,
+    "population_density_km": 791,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05916",
+    "name": "Herne, Stadt",
+    "area": 51.42,
+    "population_male": 76649,
+    "population_female": 79725,
+    "population_density_km": 3041,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05954",
+    "name": "Ennepe-Ruhr-Kreis",
+    "area": 409.62,
+    "population_male": 157490,
+    "population_female": 166806,
+    "population_density_km": 7726,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05958",
+    "name": "Hochsauerlandkreis",
+    "area": 1960.1499999999999,
+    "population_male": 129947,
+    "population_female": 130528,
+    "population_density_km": 1535,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05962",
+    "name": "Märkischer Kreis",
+    "area": 1061.06,
+    "population_male": 202817,
+    "population_female": 209303,
+    "population_density_km": 5461,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05966",
+    "name": "Olpe",
+    "area": 712.1400000000001,
+    "population_male": 67610,
+    "population_female": 67165,
+    "population_density_km": 1414,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05970",
+    "name": "Siegen-Wittgenstein",
+    "area": 1132.89,
+    "population_male": 138358,
+    "population_female": 139852,
+    "population_density_km": 3086,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05974",
+    "name": "Soest",
+    "area": 1328.6299999999999,
+    "population_male": 150022,
+    "population_female": 151880,
+    "population_density_km": 3570,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "05978",
+    "name": "Unna",
+    "area": 543.21,
+    "population_male": 192304,
+    "population_female": 202478,
+    "population_density_km": 7508,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06411",
+    "name": "Darmstadt, Wissenschaftsstadt",
+    "area": 122.07,
+    "population_male": 81217,
+    "population_female": 77990,
+    "population_density_km": 1304,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06412",
+    "name": "Frankfurt am Main, Stadt",
+    "area": 248.31,
+    "population_male": 371671,
+    "population_female": 381385,
+    "population_density_km": 3033,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06413",
+    "name": "Offenbach am Main, Stadt",
+    "area": 44.88,
+    "population_male": 63699,
+    "population_female": 65045,
+    "population_density_km": 2869,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06414",
+    "name": "Wiesbaden, Landeshauptstadt",
+    "area": 203.87,
+    "population_male": 132943,
+    "population_female": 145399,
+    "population_density_km": 1365,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06431",
+    "name": "Bergstraße",
+    "area": 719.48,
+    "population_male": 133318,
+    "population_female": 136376,
+    "population_density_km": 8466,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06432",
+    "name": "Darmstadt-Dieburg",
+    "area": 658.61,
+    "population_male": 147786,
+    "population_female": 149613,
+    "population_density_km": 11998,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06433",
+    "name": "Groß-Gerau",
+    "area": 453.03000000000003,
+    "population_male": 137325,
+    "population_female": 137201,
+    "population_density_km": 10235,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06434",
+    "name": "Hochtaunuskreis",
+    "area": 481.84,
+    "population_male": 114878,
+    "population_female": 121686,
+    "population_density_km": 8589,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06435",
+    "name": "Main-Kinzig-Kreis",
+    "area": 1397.3299999999995,
+    "population_male": 206555,
+    "population_female": 212395,
+    "population_density_km": 12093,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06436",
+    "name": "Main-Taunus-Kreis",
+    "area": 222.51999999999995,
+    "population_male": 116332,
+    "population_female": 121403,
+    "population_density_km": 15955,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06437",
+    "name": "Odenwaldkreis",
+    "area": 623.99,
+    "population_male": 47875,
+    "population_female": 48923,
+    "population_density_km": 2222,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06438",
+    "name": "Offenbach",
+    "area": 356.23,
+    "population_male": 174417,
+    "population_female": 179675,
+    "population_density_km": 13953,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06439",
+    "name": "Rheingau-Taunus-Kreis",
+    "area": 811.4199999999998,
+    "population_male": 91962,
+    "population_female": 95195,
+    "population_density_km": 4604,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06440",
+    "name": "Wetteraukreis",
+    "area": 1100.6899999999998,
+    "population_male": 151276,
+    "population_female": 155184,
+    "population_density_km": 8138,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06531",
+    "name": "Gießen",
+    "area": 854.56,
+    "population_male": 132135,
+    "population_female": 136741,
+    "population_density_km": 6269,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06532",
+    "name": "Lahn-Dill-Kreis",
+    "area": 1066.3000000000002,
+    "population_male": 125090,
+    "population_female": 128687,
+    "population_density_km": 5224,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06533",
+    "name": "Limburg-Weilburg",
+    "area": 738.4299999999998,
+    "population_male": 85571,
+    "population_female": 86512,
+    "population_density_km": 4568,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06534",
+    "name": "Marburg-Biedenkopf",
+    "area": 1262.37,
+    "population_male": 121414,
+    "population_female": 125234,
+    "population_density_km": 3817,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06535",
+    "name": "Vogelsbergkreis",
+    "area": 1458.8999999999996,
+    "population_male": 52992,
+    "population_female": 52886,
+    "population_density_km": 1280,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06611",
+    "name": "Kassel, documenta-Stadt",
+    "area": 106.8,
+    "population_male": 99007,
+    "population_female": 102578,
+    "population_density_km": 1888,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06631",
+    "name": "Fulda",
+    "area": 1380.4199999999998,
+    "population_male": 110592,
+    "population_female": 111992,
+    "population_density_km": 3761,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06632",
+    "name": "Hersfeld-Rotenburg",
+    "area": 1097.7499999999998,
+    "population_male": 60523,
+    "population_female": 60306,
+    "population_density_km": 2148,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06633",
+    "name": "Kassel",
+    "area": 1293.3600000000001,
+    "population_male": 116122,
+    "population_female": 120511,
+    "population_density_km": 8846,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06634",
+    "name": "Schwalm-Eder-Kreis",
+    "area": 1539.0,
+    "population_male": 90181,
+    "population_female": 90041,
+    "population_density_km": 3271,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06635",
+    "name": "Waldeck-Frankenberg",
+    "area": 1848.6999999999996,
+    "population_male": 78198,
+    "population_female": 78755,
+    "population_density_km": 1784,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "06636",
+    "name": "Werra-Meißner-Kreis",
+    "area": 1031.04,
+    "population_male": 49965,
+    "population_female": 51052,
+    "population_density_km": 1642,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07111",
+    "name": "Koblenz, kreisfreie Stadt",
+    "area": 105.25,
+    "population_male": 55628,
+    "population_female": 58396,
+    "population_density_km": 1083,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07131",
+    "name": "Ahrweiler",
+    "area": 787.0400000000001,
+    "population_male": 63755,
+    "population_female": 65972,
+    "population_density_km": 7953,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07132",
+    "name": "Altenkirchen (Westerwald)",
+    "area": 642.37,
+    "population_male": 63859,
+    "population_female": 64846,
+    "population_density_km": 23502,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07133",
+    "name": "Bad Kreuznach",
+    "area": 863.89,
+    "population_male": 77185,
+    "population_female": 80895,
+    "population_density_km": 18992,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07134",
+    "name": "Birkenfeld",
+    "area": 776.82,
+    "population_male": 40021,
+    "population_female": 40699,
+    "population_density_km": 7529,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07135",
+    "name": "Cochem-Zell",
+    "area": 692.4699999999999,
+    "population_male": 30841,
+    "population_female": 30746,
+    "population_density_km": 8196,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07137",
+    "name": "Mayen-Koblenz",
+    "area": 817.6899999999999,
+    "population_male": 105746,
+    "population_female": 108513,
+    "population_density_km": 21542,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07138",
+    "name": "Neuwied",
+    "area": 627.0399999999998,
+    "population_male": 89488,
+    "population_female": 92453,
+    "population_density_km": 14717,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07140",
+    "name": "Rhein-Hunsrück-Kreis",
+    "area": 991.0699999999998,
+    "population_male": 51206,
+    "population_female": 51731,
+    "population_density_km": 12188,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07141",
+    "name": "Rhein-Lahn-Kreis",
+    "area": 782.1899999999999,
+    "population_male": 60525,
+    "population_female": 61783,
+    "population_density_km": 17356,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07143",
+    "name": "Westerwaldkreis",
+    "area": 989.0599999999996,
+    "population_male": 100218,
+    "population_female": 101379,
+    "population_density_km": 36318,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07211",
+    "name": "Trier, kreisfreie Stadt",
+    "area": 117.06,
+    "population_male": 54444,
+    "population_female": 56192,
+    "population_density_km": 945,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07231",
+    "name": "Bernkastel-Wittlich",
+    "area": 1167.91,
+    "population_male": 56124,
+    "population_female": 56138,
+    "population_density_km": 8713,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07232",
+    "name": "Eifelkreis Bitburg-Prüm",
+    "area": 1626.9399999999996,
+    "population_male": 49576,
+    "population_female": 48985,
+    "population_density_km": 12212,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07233",
+    "name": "Vulkaneifel",
+    "area": 911.65,
+    "population_male": 30427,
+    "population_female": 30176,
+    "population_density_km": 6086,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07235",
+    "name": "Trier-Saarburg",
+    "area": 1102.22,
+    "population_male": 73673,
+    "population_female": 75272,
+    "population_density_km": 14481,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07311",
+    "name": "Frankenthal (Pfalz), kreisfreie Stadt",
+    "area": 43.88,
+    "population_male": 23489,
+    "population_female": 25072,
+    "population_density_km": 1107,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07312",
+    "name": "Kaiserslautern, kreisfreie Stadt",
+    "area": 139.7,
+    "population_male": 50353,
+    "population_female": 49492,
+    "population_density_km": 715,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07313",
+    "name": "Landau in der Pfalz, kreisfreie Stadt",
+    "area": 82.94,
+    "population_male": 22078,
+    "population_female": 24599,
+    "population_density_km": 563,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07314",
+    "name": "Ludwigshafen am Rhein, kreisfreie Stadt",
+    "area": 77.43,
+    "population_male": 85820,
+    "population_female": 85241,
+    "population_density_km": 2209,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07315",
+    "name": "Mainz, kreisfreie Stadt",
+    "area": 97.73,
+    "population_male": 105599,
+    "population_female": 111519,
+    "population_density_km": 2222,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07316",
+    "name": "Neustadt an der Weinstraße, kreisfreie Stadt",
+    "area": 117.09,
+    "population_male": 25955,
+    "population_female": 27193,
+    "population_density_km": 454,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07317",
+    "name": "Pirmasens, kreisfreie Stadt",
+    "area": 61.36,
+    "population_male": 19780,
+    "population_female": 20623,
+    "population_density_km": 658,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07318",
+    "name": "Speyer, kreisfreie Stadt",
+    "area": 42.71,
+    "population_male": 24363,
+    "population_female": 26015,
+    "population_density_km": 1180,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07319",
+    "name": "Worms, kreisfreie Stadt",
+    "area": 108.73,
+    "population_male": 41080,
+    "population_female": 42250,
+    "population_density_km": 766,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07320",
+    "name": "Zweibrücken, kreisfreie Stadt",
+    "area": 70.64,
+    "population_male": 16954,
+    "population_female": 17255,
+    "population_density_km": 484,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07331",
+    "name": "Alzey-Worms",
+    "area": 588.0800000000002,
+    "population_male": 64389,
+    "population_female": 64855,
+    "population_density_km": 12541,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07332",
+    "name": "Bad Dürkheim",
+    "area": 594.6100000000002,
+    "population_male": 64838,
+    "population_female": 67822,
+    "population_density_km": 11887,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07333",
+    "name": "Donnersbergkreis",
+    "area": 645.4200000000001,
+    "population_male": 37194,
+    "population_female": 37907,
+    "population_density_km": 8133,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07334",
+    "name": "Germersheim",
+    "area": 463.32,
+    "population_male": 64379,
+    "population_female": 64696,
+    "population_density_km": 9086,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07335",
+    "name": "Kaiserslautern",
+    "area": 639.9800000000002,
+    "population_male": 52135,
+    "population_female": 53922,
+    "population_density_km": 8567,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07336",
+    "name": "Kusel",
+    "area": 573.58,
+    "population_male": 35052,
+    "population_female": 35474,
+    "population_density_km": 11034,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07337",
+    "name": "Südliche Weinstraße",
+    "area": 639.95,
+    "population_male": 54441,
+    "population_female": 55915,
+    "population_density_km": 12035,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07338",
+    "name": "Rhein-Pfalz-Kreis",
+    "area": 305.01000000000005,
+    "population_male": 76030,
+    "population_female": 78171,
+    "population_density_km": 13162,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07339",
+    "name": "Mainz-Bingen",
+    "area": 605.3699999999998,
+    "population_male": 104015,
+    "population_female": 106874,
+    "population_density_km": 19849,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "07340",
+    "name": "Südwestpfalz",
+    "area": 953.59,
+    "population_male": 46916,
+    "population_female": 48197,
+    "population_density_km": 9691,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08111",
+    "name": "Stuttgart, Stadtkreis",
+    "area": 207.33,
+    "population_male": 317139,
+    "population_female": 317691,
+    "population_density_km": 3062,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08115",
+    "name": "Böblingen",
+    "area": 617.7800000000002,
+    "population_male": 194989,
+    "population_female": 196651,
+    "population_density_km": 14824,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08116",
+    "name": "Esslingen",
+    "area": 641.2799999999997,
+    "population_male": 266783,
+    "population_female": 267076,
+    "population_density_km": 33085,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08117",
+    "name": "Göppingen",
+    "area": 642.3199999999998,
+    "population_male": 128093,
+    "population_female": 129160,
+    "population_density_km": 15609,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08118",
+    "name": "Ludwigsburg",
+    "area": 686.7599999999998,
+    "population_male": 269961,
+    "population_female": 274023,
+    "population_density_km": 31898,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08119",
+    "name": "Rems-Murr-Kreis",
+    "area": 858.0900000000001,
+    "population_male": 210861,
+    "population_female": 215297,
+    "population_density_km": 17037,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08121",
+    "name": "Heilbronn, Stadtkreis",
+    "area": 99.89,
+    "population_male": 63527,
+    "population_female": 62433,
+    "population_density_km": 1261,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08125",
+    "name": "Heilbronn",
+    "area": 1099.9399999999998,
+    "population_male": 172382,
+    "population_female": 170686,
+    "population_density_km": 16568,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08126",
+    "name": "Hohenlohekreis",
+    "area": 776.76,
+    "population_male": 56550,
+    "population_female": 55460,
+    "population_density_km": 2302,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08127",
+    "name": "Schwäbisch Hall",
+    "area": 1484.06,
+    "population_male": 98314,
+    "population_female": 97547,
+    "population_density_km": 3611,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08128",
+    "name": "Main-Tauber-Kreis",
+    "area": 1304.1200000000001,
+    "population_male": 65923,
+    "population_female": 66398,
+    "population_density_km": 1738,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08135",
+    "name": "Heidenheim",
+    "area": 627.1099999999999,
+    "population_male": 66092,
+    "population_female": 66380,
+    "population_density_km": 2200,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08136",
+    "name": "Ostalbkreis",
+    "area": 1511.38,
+    "population_male": 156480,
+    "population_female": 157522,
+    "population_density_km": 9068,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08211",
+    "name": "Baden-Baden, Stadtkreis",
+    "area": 140.19,
+    "population_male": 26442,
+    "population_female": 28681,
+    "population_density_km": 393,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08212",
+    "name": "Karlsruhe, Stadtkreis",
+    "area": 173.42,
+    "population_male": 160429,
+    "population_female": 152663,
+    "population_density_km": 1805,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08215",
+    "name": "Karlsruhe",
+    "area": 1085.2800000000002,
+    "population_male": 221339,
+    "population_female": 222893,
+    "population_density_km": 14038,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08216",
+    "name": "Rastatt",
+    "area": 738.4399999999998,
+    "population_male": 114797,
+    "population_female": 116221,
+    "population_density_km": 8182,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08221",
+    "name": "Heidelberg, Stadtkreis",
+    "area": 108.83,
+    "population_male": 77112,
+    "population_female": 83243,
+    "population_density_km": 1473,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08222",
+    "name": "Mannheim, Stadtkreis",
+    "area": 144.97,
+    "population_male": 154273,
+    "population_female": 155097,
+    "population_density_km": 2134,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08225",
+    "name": "Neckar-Odenwald-Kreis",
+    "area": 1125.9499999999998,
+    "population_male": 72057,
+    "population_female": 71478,
+    "population_density_km": 4122,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08226",
+    "name": "Rhein-Neckar-Kreis",
+    "area": 1061.5400000000002,
+    "population_male": 269317,
+    "population_female": 278308,
+    "population_density_km": 34664,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08231",
+    "name": "Pforzheim, Stadtkreis",
+    "area": 97.99,
+    "population_male": 61699,
+    "population_female": 63843,
+    "population_density_km": 1281,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08235",
+    "name": "Calw",
+    "area": 797.3199999999999,
+    "population_male": 79514,
+    "population_female": 78883,
+    "population_density_km": 5599,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08236",
+    "name": "Enzkreis",
+    "area": 573.62,
+    "population_male": 98744,
+    "population_female": 100161,
+    "population_density_km": 10165,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08237",
+    "name": "Freudenstadt",
+    "area": 870.3999999999999,
+    "population_male": 58898,
+    "population_female": 59037,
+    "population_density_km": 2325,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08311",
+    "name": "Freiburg im Breisgau, Stadtkreis",
+    "area": 153.04,
+    "population_male": 109829,
+    "population_female": 120412,
+    "population_density_km": 1504,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08315",
+    "name": "Breisgau-Hochschwarzwald",
+    "area": 1378.3299999999997,
+    "population_male": 129641,
+    "population_female": 133154,
+    "population_density_km": 14532,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08316",
+    "name": "Emmendingen",
+    "area": 679.81,
+    "population_male": 81772,
+    "population_female": 83611,
+    "population_density_km": 6770,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08317",
+    "name": "Ortenaukreis",
+    "area": 1860.2999999999997,
+    "population_male": 214221,
+    "population_female": 215258,
+    "population_density_km": 11321,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08325",
+    "name": "Rottweil",
+    "area": 769.4300000000002,
+    "population_male": 69767,
+    "population_female": 69688,
+    "population_density_km": 3734,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08326",
+    "name": "Schwarzwald-Baar-Kreis",
+    "area": 1025.34,
+    "population_male": 105542,
+    "population_female": 106839,
+    "population_density_km": 3684,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08327",
+    "name": "Tuttlingen",
+    "area": 734.3599999999999,
+    "population_male": 70452,
+    "population_female": 69700,
+    "population_density_km": 6309,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08335",
+    "name": "Konstanz",
+    "area": 817.98,
+    "population_male": 139046,
+    "population_female": 146279,
+    "population_density_km": 8101,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08336",
+    "name": "Lörrach",
+    "area": 806.7199999999998,
+    "population_male": 111981,
+    "population_female": 116658,
+    "population_density_km": 10351,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08337",
+    "name": "Waldshut",
+    "area": 1131.1399999999999,
+    "population_male": 84587,
+    "population_female": 86032,
+    "population_density_km": 5719,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08415",
+    "name": "Reutlingen",
+    "area": 1092.46,
+    "population_male": 142232,
+    "population_female": 144516,
+    "population_density_km": 9341,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08416",
+    "name": "Tübingen",
+    "area": 519.11,
+    "population_male": 110795,
+    "population_female": 116536,
+    "population_density_km": 6038,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08417",
+    "name": "Zollernalbkreis",
+    "area": 917.5599999999998,
+    "population_male": 93808,
+    "population_female": 95127,
+    "population_density_km": 4458,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08421",
+    "name": "Ulm, Stadtkreis",
+    "area": 118.68,
+    "population_male": 62660,
+    "population_female": 63669,
+    "population_density_km": 1064,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08425",
+    "name": "Alb-Donau-Kreis",
+    "area": 1358.5399999999995,
+    "population_male": 99041,
+    "population_female": 97006,
+    "population_density_km": 7257,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08426",
+    "name": "Biberach",
+    "area": 1409.4900000000002,
+    "population_male": 100634,
+    "population_female": 99108,
+    "population_density_km": 5684,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08435",
+    "name": "Bodenseekreis",
+    "area": 664.7899999999998,
+    "population_male": 106544,
+    "population_female": 109683,
+    "population_density_km": 8320,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08436",
+    "name": "Ravensburg",
+    "area": 1632.0899999999997,
+    "population_male": 141777,
+    "population_female": 142508,
+    "population_density_km": 7519,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "08437",
+    "name": "Sigmaringen",
+    "area": 1204.22,
+    "population_male": 65649,
+    "population_female": 65224,
+    "population_density_km": 2642,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09161",
+    "name": "Ingolstadt",
+    "area": 133.35,
+    "population_male": 69252,
+    "population_female": 67729,
+    "population_density_km": 1027,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09162",
+    "name": "München, Landeshauptstadt",
+    "area": 310.7,
+    "population_male": 717308,
+    "population_female": 754200,
+    "population_density_km": 4736,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09163",
+    "name": "Rosenheim",
+    "area": 37.22,
+    "population_male": 31321,
+    "population_female": 32003,
+    "population_density_km": 1701,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09171",
+    "name": "Altötting",
+    "area": 569.29,
+    "population_male": 54942,
+    "population_female": 56268,
+    "population_density_km": 5276,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09172",
+    "name": "Berchtesgadener Land",
+    "area": 839.86,
+    "population_male": 52007,
+    "population_female": 53715,
+    "population_density_km": 3495,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09173",
+    "name": "Bad Tölz-Wolfratshausen",
+    "area": 1110.6600000000005,
+    "population_male": 62731,
+    "population_female": 64496,
+    "population_density_km": 5377,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09174",
+    "name": "Dachau",
+    "area": 579.15,
+    "population_male": 77120,
+    "population_female": 76764,
+    "population_density_km": 5290,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09175",
+    "name": "Ebersberg",
+    "area": 549.4000000000001,
+    "population_male": 70972,
+    "population_female": 71170,
+    "population_density_km": 7006,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09176",
+    "name": "Eichstätt",
+    "area": 1213.8400000000006,
+    "population_male": 67325,
+    "population_female": 65016,
+    "population_density_km": 4702,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09177",
+    "name": "Erding",
+    "area": 870.73,
+    "population_male": 69367,
+    "population_female": 68293,
+    "population_density_km": 3926,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09178",
+    "name": "Freising",
+    "area": 799.8299999999999,
+    "population_male": 91393,
+    "population_female": 87723,
+    "population_density_km": 4455,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09179",
+    "name": "Fürstenfeldbruck",
+    "area": 434.80999999999995,
+    "population_male": 107686,
+    "population_female": 111634,
+    "population_density_km": 13935,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09180",
+    "name": "Garmisch-Partenkirchen",
+    "area": 1012.18,
+    "population_male": 42969,
+    "population_female": 45498,
+    "population_density_km": 2075,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09181",
+    "name": "Landsberg am Lech",
+    "area": 804.3600000000002,
+    "population_male": 60077,
+    "population_female": 59994,
+    "population_density_km": 5200,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09182",
+    "name": "Miesbach",
+    "area": 866.22,
+    "population_male": 48870,
+    "population_female": 50856,
+    "population_density_km": 2537,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09183",
+    "name": "Mühldorf a.Inn",
+    "area": 805.3400000000003,
+    "population_male": 58360,
+    "population_female": 56890,
+    "population_density_km": 4574,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09184",
+    "name": "München",
+    "area": 664.26,
+    "population_male": 173601,
+    "population_female": 175270,
+    "population_density_km": 27678,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09185",
+    "name": "Neuburg-Schrobenhausen",
+    "area": 739.72,
+    "population_male": 48679,
+    "population_female": 48001,
+    "population_density_km": 2026,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09186",
+    "name": "Pfaffenhofen a.d.Ilm",
+    "area": 761.04,
+    "population_male": 64639,
+    "population_female": 62512,
+    "population_density_km": 3381,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09187",
+    "name": "Rosenheim",
+    "area": 1439.4499999999998,
+    "population_male": 129253,
+    "population_female": 131730,
+    "population_density_km": 9088,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09188",
+    "name": "Starnberg",
+    "area": 487.72,
+    "population_male": 66020,
+    "population_female": 70072,
+    "population_density_km": 4580,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09189",
+    "name": "Traunstein",
+    "area": 1533.7399999999998,
+    "population_male": 87564,
+    "population_female": 89525,
+    "population_density_km": 4578,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09190",
+    "name": "Weilheim-Schongau",
+    "area": 966.2799999999999,
+    "population_male": 67321,
+    "population_female": 68027,
+    "population_density_km": 4785,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09261",
+    "name": "Landshut",
+    "area": 65.83,
+    "population_male": 35403,
+    "population_female": 37001,
+    "population_density_km": 1100,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09262",
+    "name": "Passau",
+    "area": 69.56,
+    "population_male": 25344,
+    "population_female": 27125,
+    "population_density_km": 754,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09263",
+    "name": "Straubing",
+    "area": 67.59,
+    "population_male": 24117,
+    "population_female": 23677,
+    "population_density_km": 707,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09271",
+    "name": "Deggendorf",
+    "area": 861.1499999999999,
+    "population_male": 59547,
+    "population_female": 59779,
+    "population_density_km": 3238,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09272",
+    "name": "Freyung-Grafenau",
+    "area": 983.8599999999997,
+    "population_male": 39103,
+    "population_female": 39252,
+    "population_density_km": 2190,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09273",
+    "name": "Kelheim",
+    "area": 1065.12,
+    "population_male": 62137,
+    "population_female": 60121,
+    "population_density_km": 2701,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09274",
+    "name": "Landshut",
+    "area": 1347.56,
+    "population_male": 80519,
+    "population_female": 78179,
+    "population_density_km": 4629,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09275",
+    "name": "Passau",
+    "area": 1530.0600000000004,
+    "population_male": 95471,
+    "population_female": 96572,
+    "population_density_km": 4839,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09276",
+    "name": "Regen",
+    "area": 974.78,
+    "population_male": 38745,
+    "population_female": 38911,
+    "population_density_km": 2248,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09277",
+    "name": "Rottal-Inn",
+    "area": 1281.1900000000003,
+    "population_male": 60346,
+    "population_female": 60313,
+    "population_density_km": 2993,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09278",
+    "name": "Straubing-Bogen",
+    "area": 1201.62,
+    "population_male": 50627,
+    "population_female": 50022,
+    "population_density_km": 3451,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09279",
+    "name": "Dingolfing-Landau",
+    "area": 877.58,
+    "population_male": 49450,
+    "population_female": 46767,
+    "population_density_km": 1756,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09361",
+    "name": "Amberg",
+    "area": 50.13,
+    "population_male": 20673,
+    "population_female": 21297,
+    "population_density_km": 837,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09362",
+    "name": "Regensburg",
+    "area": 80.86,
+    "population_male": 74225,
+    "population_female": 78385,
+    "population_density_km": 1887,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09363",
+    "name": "Weiden i.d.OPf.",
+    "area": 70.57,
+    "population_male": 20542,
+    "population_female": 21978,
+    "population_density_km": 603,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09371",
+    "name": "Amberg-Sulzbach",
+    "area": 1255.8300000000002,
+    "population_male": 51665,
+    "population_female": 51444,
+    "population_density_km": 2517,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09372",
+    "name": "Cham",
+    "area": 1526.81,
+    "population_male": 64248,
+    "population_female": 63634,
+    "population_density_km": 3331,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09373",
+    "name": "Neumarkt i.d.OPf.",
+    "area": 1343.94,
+    "population_male": 67499,
+    "population_female": 66062,
+    "population_density_km": 2220,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09374",
+    "name": "Neustadt a.d.Waldnaab",
+    "area": 1427.6800000000003,
+    "population_male": 46943,
+    "population_female": 47409,
+    "population_density_km": 3959,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09375",
+    "name": "Regensburg",
+    "area": 1391.68,
+    "population_male": 97081,
+    "population_female": 96491,
+    "population_density_km": 8020,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09376",
+    "name": "Schwandorf",
+    "area": 1458.35,
+    "population_male": 73964,
+    "population_female": 73225,
+    "population_density_km": 2912,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09377",
+    "name": "Tirschenreuth",
+    "area": 1084.24,
+    "population_male": 36121,
+    "population_female": 36383,
+    "population_density_km": 1892,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09461",
+    "name": "Bamberg",
+    "area": 54.62,
+    "population_male": 37464,
+    "population_female": 40128,
+    "population_density_km": 1421,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09462",
+    "name": "Bayreuth",
+    "area": 66.89,
+    "population_male": 36469,
+    "population_female": 38188,
+    "population_density_km": 1116,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09463",
+    "name": "Coburg",
+    "area": 48.29,
+    "population_male": 20162,
+    "population_female": 21087,
+    "population_density_km": 854,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09464",
+    "name": "Hof",
+    "area": 58.02,
+    "population_male": 22098,
+    "population_female": 23832,
+    "population_density_km": 792,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09471",
+    "name": "Bamberg",
+    "area": 1167.7799999999997,
+    "population_male": 73725,
+    "population_female": 73361,
+    "population_density_km": 6894,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09472",
+    "name": "Bayreuth",
+    "area": 1273.6399999999996,
+    "population_male": 51310,
+    "population_female": 52346,
+    "population_density_km": 3801,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09473",
+    "name": "Coburg",
+    "area": 590.4100000000001,
+    "population_male": 42912,
+    "population_female": 43994,
+    "population_density_km": 4049,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09474",
+    "name": "Forchheim",
+    "area": 642.8,
+    "population_male": 57703,
+    "population_female": 58396,
+    "population_density_km": 5825,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09475",
+    "name": "Hof",
+    "area": 892.54,
+    "population_male": 46646,
+    "population_female": 48665,
+    "population_density_km": 3020,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09476",
+    "name": "Kronach",
+    "area": 651.5099999999999,
+    "population_male": 33184,
+    "population_female": 33951,
+    "population_density_km": 1828,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09477",
+    "name": "Kulmbach",
+    "area": 658.32,
+    "population_male": 35345,
+    "population_female": 36500,
+    "population_density_km": 2201,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09478",
+    "name": "Lichtenfels",
+    "area": 519.92,
+    "population_male": 33027,
+    "population_female": 33811,
+    "population_density_km": 1934,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09479",
+    "name": "Wunsiedel i.Fichtelgebirge",
+    "area": 606.3600000000002,
+    "population_male": 35718,
+    "population_female": 37460,
+    "population_density_km": 2123,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09561",
+    "name": "Ansbach",
+    "area": 99.91,
+    "population_male": 20048,
+    "population_female": 21799,
+    "population_density_km": 419,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09562",
+    "name": "Erlangen",
+    "area": 76.96,
+    "population_male": 55864,
+    "population_female": 56098,
+    "population_density_km": 1455,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09563",
+    "name": "Fürth",
+    "area": 63.35,
+    "population_male": 62603,
+    "population_female": 65145,
+    "population_density_km": 2017,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09564",
+    "name": "Nürnberg",
+    "area": 186.45,
+    "population_male": 252807,
+    "population_female": 265558,
+    "population_density_km": 2780,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09565",
+    "name": "Schwabach",
+    "area": 40.8,
+    "population_male": 19895,
+    "population_female": 20897,
+    "population_density_km": 1000,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09571",
+    "name": "Ansbach",
+    "area": 1971.3100000000002,
+    "population_male": 92450,
+    "population_female": 91499,
+    "population_density_km": 5566,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09572",
+    "name": "Erlangen-Höchstadt",
+    "area": 564.5299999999999,
+    "population_male": 67763,
+    "population_female": 68508,
+    "population_density_km": 11586,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09573",
+    "name": "Fürth",
+    "area": 307.43,
+    "population_male": 57064,
+    "population_female": 60323,
+    "population_density_km": 6527,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09574",
+    "name": "Nürnberger Land",
+    "area": 799.51,
+    "population_male": 83946,
+    "population_female": 86419,
+    "population_density_km": 10189,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09575",
+    "name": "Neustadt a.d.Aisch-Bad Windsheim",
+    "area": 1267.44,
+    "population_male": 50331,
+    "population_female": 50033,
+    "population_density_km": 2901,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09576",
+    "name": "Roth",
+    "area": 895.1699999999998,
+    "population_male": 63206,
+    "population_female": 63752,
+    "population_density_km": 2660,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09577",
+    "name": "Weißenburg-Gunzenhausen",
+    "area": 970.7800000000002,
+    "population_male": 47093,
+    "population_female": 47300,
+    "population_density_km": 2221,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09661",
+    "name": "Aschaffenburg",
+    "area": 62.45,
+    "population_male": 34316,
+    "population_female": 36211,
+    "population_density_km": 1129,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09662",
+    "name": "Schweinfurt",
+    "area": 35.7,
+    "population_male": 26553,
+    "population_female": 27479,
+    "population_density_km": 1514,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09663",
+    "name": "Würzburg",
+    "area": 87.6,
+    "population_male": 61151,
+    "population_female": 66729,
+    "population_density_km": 1460,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09671",
+    "name": "Aschaffenburg",
+    "area": 698.8999999999999,
+    "population_male": 86570,
+    "population_female": 87638,
+    "population_density_km": 13263,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09672",
+    "name": "Bad Kissingen",
+    "area": 1136.91,
+    "population_male": 50865,
+    "population_female": 52353,
+    "population_density_km": 2561,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09673",
+    "name": "Rhön-Grabfeld",
+    "area": 1021.6799999999998,
+    "population_male": 39677,
+    "population_female": 40013,
+    "population_density_km": 3417,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09674",
+    "name": "Haßberge",
+    "area": 956.1899999999999,
+    "population_male": 42468,
+    "population_female": 42131,
+    "population_density_km": 2459,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09675",
+    "name": "Kitzingen",
+    "area": 684.1699999999998,
+    "population_male": 45791,
+    "population_female": 45118,
+    "population_density_km": 4993,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09676",
+    "name": "Miltenberg",
+    "area": 715.5499999999998,
+    "population_male": 64190,
+    "population_female": 64566,
+    "population_density_km": 7014,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09677",
+    "name": "Main-Spessart",
+    "area": 1321.17,
+    "population_male": 62953,
+    "population_female": 63412,
+    "population_density_km": 4552,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09678",
+    "name": "Schweinfurt",
+    "area": 841.4000000000002,
+    "population_male": 57768,
+    "population_female": 57338,
+    "population_density_km": 5909,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09679",
+    "name": "Würzburg",
+    "area": 968.3199999999996,
+    "population_male": 80594,
+    "population_female": 81240,
+    "population_density_km": 13283,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09761",
+    "name": "Augsburg",
+    "area": 146.85,
+    "population_male": 145158,
+    "population_female": 149977,
+    "population_density_km": 2010,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09762",
+    "name": "Kaufbeuren",
+    "area": 40.02,
+    "population_male": 21610,
+    "population_female": 22283,
+    "population_density_km": 1097,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09763",
+    "name": "Kempten (Allgäu)",
+    "area": 63.28,
+    "population_male": 34141,
+    "population_female": 34766,
+    "population_density_km": 1089,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09764",
+    "name": "Memmingen",
+    "area": 70.11,
+    "population_male": 21710,
+    "population_female": 22127,
+    "population_density_km": 625,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09771",
+    "name": "Aichach-Friedberg",
+    "area": 780.2300000000002,
+    "population_male": 66651,
+    "population_female": 66945,
+    "population_density_km": 3671,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09772",
+    "name": "Augsburg",
+    "area": 1070.6499999999999,
+    "population_male": 124807,
+    "population_female": 126727,
+    "population_density_km": 12607,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09773",
+    "name": "Dillingen a.d.Donau",
+    "area": 792.23,
+    "population_male": 48135,
+    "population_female": 47886,
+    "population_density_km": 2907,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09774",
+    "name": "Günzburg",
+    "area": 762.4299999999998,
+    "population_male": 63576,
+    "population_female": 62171,
+    "population_density_km": 4999,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09775",
+    "name": "Neu-Ulm",
+    "area": 515.84,
+    "population_male": 86470,
+    "population_female": 87730,
+    "population_density_km": 5739,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09776",
+    "name": "Lindau (Bodensee)",
+    "area": 323.38,
+    "population_male": 40285,
+    "population_female": 41384,
+    "population_density_km": 6253,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09777",
+    "name": "Ostallgäu",
+    "area": 1394.44,
+    "population_male": 69968,
+    "population_female": 70348,
+    "population_density_km": 4493,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09778",
+    "name": "Unterallgäu",
+    "area": 1229.55,
+    "population_male": 72608,
+    "population_female": 71433,
+    "population_density_km": 7020,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09779",
+    "name": "Donau-Ries",
+    "area": 1274.57,
+    "population_male": 67821,
+    "population_female": 65675,
+    "population_density_km": 4243,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "09780",
+    "name": "Oberallgäu",
+    "area": 1527.9599999999998,
+    "population_male": 76577,
+    "population_female": 78785,
+    "population_density_km": 3768,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "10041",
+    "name": "Regionalverband Saarbrücken",
+    "area": 410.94999999999993,
+    "population_male": 162003,
+    "population_female": 167705,
+    "population_density_km": 7394,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "10042",
+    "name": "Merzig-Wadern",
+    "area": 556.66,
+    "population_male": 51108,
+    "population_female": 52258,
+    "population_density_km": 1325,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "10043",
+    "name": "Neunkirchen",
+    "area": 249.79999999999998,
+    "population_male": 64915,
+    "population_female": 67291,
+    "population_density_km": 4365,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "10044",
+    "name": "Saarlouis",
+    "area": 459.35,
+    "population_male": 95550,
+    "population_female": 99651,
+    "population_density_km": 6774,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "10045",
+    "name": "Saarpfalz-Kreis",
+    "area": 418.2799999999999,
+    "population_male": 69385,
+    "population_female": 73246,
+    "population_density_km": 2589,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "10046",
+    "name": "St. Wendel",
+    "area": 476.07,
+    "population_male": 43198,
+    "population_female": 44199,
+    "population_density_km": 1605,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "11000",
+    "name": "Berlin, Stadt",
+    "area": 891.12,
+    "population_male": 1792801,
+    "population_female": 1852025,
+    "population_density_km": 4090,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "12051",
+    "name": "Brandenburg an der Havel, Stadt",
+    "area": 229.71,
+    "population_male": 35617,
+    "population_female": 36507,
+    "population_density_km": 314,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "12052",
+    "name": "Cottbus, Stadt",
+    "area": 165.63,
+    "population_male": 49201,
+    "population_female": 51018,
+    "population_density_km": 605,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "12053",
+    "name": "Frankfurt (Oder), Stadt",
+    "area": 147.85,
+    "population_male": 28023,
+    "population_female": 29850,
+    "population_density_km": 391,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "12054",
+    "name": "Potsdam, Stadt",
+    "area": 188.25,
+    "population_male": 86179,
+    "population_female": 91910,
+    "population_density_km": 946,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "12060",
+    "name": "Barnim",
+    "area": 1479.6099999999994,
+    "population_male": 90615,
+    "population_female": 92145,
+    "population_density_km": 2988,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "12061",
+    "name": "Dahme-Spreewald",
+    "area": 2274.53,
+    "population_male": 83943,
+    "population_female": 85124,
+    "population_density_km": 7047,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "12062",
+    "name": "Elbe-Elster",
+    "area": 1899.1599999999999,
+    "population_male": 50832,
+    "population_female": 51806,
+    "population_density_km": 1772,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "12063",
+    "name": "Havelland",
+    "area": 1727.3100000000002,
+    "population_male": 80121,
+    "population_female": 81788,
+    "population_density_km": 2634,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "12064",
+    "name": "Märkisch-Oderland",
+    "area": 2158.65,
+    "population_male": 96483,
+    "population_female": 97845,
+    "population_density_km": 5395,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "12065",
+    "name": "Oberhavel",
+    "area": 1808.17,
+    "population_male": 104111,
+    "population_female": 107138,
+    "population_density_km": 7038,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "12066",
+    "name": "Oberspreewald-Lausitz",
+    "area": 1223.4599999999998,
+    "population_male": 54307,
+    "population_female": 56169,
+    "population_density_km": 2002,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "12067",
+    "name": "Oder-Spree",
+    "area": 2256.75,
+    "population_male": 87681,
+    "population_female": 90977,
+    "population_density_km": 5207,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "12068",
+    "name": "Ostprignitz-Ruppin",
+    "area": 2526.5499999999997,
+    "population_male": 49331,
+    "population_female": 49747,
+    "population_density_km": 744,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "12069",
+    "name": "Potsdam-Mittelmark",
+    "area": 2592.0600000000004,
+    "population_male": 106258,
+    "population_female": 108406,
+    "population_density_km": 5897,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "12070",
+    "name": "Prignitz",
+    "area": 2138.5800000000004,
+    "population_male": 37977,
+    "population_female": 38531,
+    "population_density_km": 1028,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "12071",
+    "name": "Spree-Neiße",
+    "area": 1656.9800000000005,
+    "population_male": 56269,
+    "population_female": 58160,
+    "population_density_km": 2313,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "12072",
+    "name": "Teltow-Fläming",
+    "area": 2104.22,
+    "population_male": 83842,
+    "population_female": 84454,
+    "population_density_km": 2136,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "12073",
+    "name": "Uckermark",
+    "area": 3078.0099999999998,
+    "population_male": 58670,
+    "population_female": 60882,
+    "population_density_km": 1114,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "13003",
+    "name": "Rostock",
+    "area": 181.36,
+    "population_male": 102911,
+    "population_female": 105975,
+    "population_density_km": 1152,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "13004",
+    "name": "Schwerin",
+    "area": 130.52,
+    "population_male": 46054,
+    "population_female": 49764,
+    "population_density_km": 734,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "13071",
+    "name": "Mecklenburgische Seenplatte",
+    "area": 5495.609999999998,
+    "population_male": 127108,
+    "population_female": 132022,
+    "population_density_km": 5094,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "13072",
+    "name": "Landkreis Rostock",
+    "area": 3431.24,
+    "population_male": 107111,
+    "population_female": 108002,
+    "population_density_km": 8020,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "13073",
+    "name": "Vorpommern-Rügen",
+    "area": 3215.4100000000003,
+    "population_male": 110477,
+    "population_female": 114207,
+    "population_density_km": 6960,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "13074",
+    "name": "Nordwestmecklenburg",
+    "area": 2127.05,
+    "population_male": 77899,
+    "population_female": 78830,
+    "population_density_km": 5435,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "13075",
+    "name": "Vorpommern-Greifswald",
+    "area": 3945.560000000001,
+    "population_male": 115881,
+    "population_female": 120816,
+    "population_density_km": 8289,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "13076",
+    "name": "Ludwigslust-Parchim",
+    "area": 4766.770000000002,
+    "population_male": 106198,
+    "population_female": 106420,
+    "population_density_km": 5750,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "14511",
+    "name": "Chemnitz, Stadt",
+    "area": 221.06,
+    "population_male": 122248,
+    "population_female": 124987,
+    "population_density_km": 1118,
+    "lastUpdate": "2019-12-31"
+  },
+  {
+    "ags": "14521",
+    "name": "Erzgebirgskreis",
+    "area": 1827.8999999999999,
+    "population_male": 165218,
+    "population_female": 172480,
+    "population_density_km": 13517,
+    "lastUpdate": "2019-12-31"
+  },
+  {
+    "ags": "14522",
+    "name": "Mittelsachsen",
+    "area": 2116.84,
+    "population_male": 152310,
+    "population_female": 153875,
+    "population_density_km": 8080,
+    "lastUpdate": "2019-12-31"
+  },
+  {
+    "ags": "14523",
+    "name": "Vogtlandkreis",
+    "area": 1412.4599999999996,
+    "population_male": 111055,
+    "population_female": 116741,
+    "population_density_km": 5830,
+    "lastUpdate": "2019-12-31"
+  },
+  {
+    "ags": "14524",
+    "name": "Zwickau",
+    "area": 949.7599999999999,
+    "population_male": 154978,
+    "population_female": 162553,
+    "population_density_km": 9565,
+    "lastUpdate": "2019-12-31"
+  },
+  {
+    "ags": "14612",
+    "name": "Dresden, Stadt",
+    "area": 328.48,
+    "population_male": 276729,
+    "population_female": 277920,
+    "population_density_km": 1689,
+    "lastUpdate": "2019-12-31"
+  },
+  {
+    "ags": "14625",
+    "name": "Bautzen",
+    "area": 2395.6099999999988,
+    "population_male": 148502,
+    "population_female": 152378,
+    "population_density_km": 7860,
+    "lastUpdate": "2019-12-31"
+  },
+  {
+    "ags": "14626",
+    "name": "Görlitz",
+    "area": 2111.4300000000003,
+    "population_male": 124905,
+    "population_female": 129989,
+    "population_density_km": 7067,
+    "lastUpdate": "2019-12-31"
+  },
+  {
+    "ags": "14627",
+    "name": "Meißen",
+    "area": 1454.5900000000001,
+    "population_male": 119304,
+    "population_female": 122861,
+    "population_density_km": 6336,
+    "lastUpdate": "2019-12-31"
+  },
+  {
+    "ags": "14628",
+    "name": "Sächsische Schweiz-Osterzgebirge",
+    "area": 1654.1899999999996,
+    "population_male": 121219,
+    "population_female": 124392,
+    "population_density_km": 6805,
+    "lastUpdate": "2019-12-31"
+  },
+  {
+    "ags": "14713",
+    "name": "Leipzig, Stadt",
+    "area": 297.8,
+    "population_male": 288553,
+    "population_female": 299304,
+    "population_density_km": 1974,
+    "lastUpdate": "2019-12-31"
+  },
+  {
+    "ags": "14729",
+    "name": "Leipzig",
+    "area": 1651.2799999999995,
+    "population_male": 126380,
+    "population_female": 131383,
+    "population_density_km": 5506,
+    "lastUpdate": "2019-12-31"
+  },
+  {
+    "ags": "14730",
+    "name": "Nordsachsen",
+    "area": 2028.56,
+    "population_male": 98218,
+    "population_female": 99455,
+    "population_density_km": 3239,
+    "lastUpdate": "2019-12-31"
+  },
+  {
+    "ags": "15001",
+    "name": "Dessau-Roßlau, Stadt",
+    "area": 244.71,
+    "population_male": 39457,
+    "population_female": 41780,
+    "population_density_km": 332,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "15002",
+    "name": "Halle (Saale), Stadt",
+    "area": 135.03,
+    "population_male": 115713,
+    "population_female": 123544,
+    "population_density_km": 1772,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "15003",
+    "name": "Magdeburg, Landeshauptstadt",
+    "area": 201.01,
+    "population_male": 117828,
+    "population_female": 120869,
+    "population_density_km": 1187,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "15081",
+    "name": "Altmarkkreis Salzwedel",
+    "area": 2293.35,
+    "population_male": 41748,
+    "population_female": 42017,
+    "population_density_km": 399,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "15082",
+    "name": "Anhalt-Bitterfeld",
+    "area": 1453.8100000000002,
+    "population_male": 78326,
+    "population_female": 81528,
+    "population_density_km": 1516,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "15083",
+    "name": "Börde",
+    "area": 2366.92,
+    "population_male": 85660,
+    "population_female": 86074,
+    "population_density_km": 2635,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "15084",
+    "name": "Burgenlandkreis",
+    "area": 1413.7499999999998,
+    "population_male": 89353,
+    "population_female": 90837,
+    "population_density_km": 3049,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "15085",
+    "name": "Harz",
+    "area": 2104.7500000000005,
+    "population_male": 105101,
+    "population_female": 109345,
+    "population_density_km": 1926,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "15086",
+    "name": "Jerichower Land",
+    "area": 1576.94,
+    "population_male": 44781,
+    "population_female": 45147,
+    "population_density_km": 690,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "15087",
+    "name": "Mansfeld-Südharz",
+    "area": 1448.9299999999996,
+    "population_male": 66992,
+    "population_female": 69257,
+    "population_density_km": 3224,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "15088",
+    "name": "Saalekreis",
+    "area": 1433.9199999999998,
+    "population_male": 91361,
+    "population_female": 93221,
+    "population_density_km": 2746,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "15089",
+    "name": "Salzlandkreis",
+    "area": 1427.3300000000006,
+    "population_male": 93148,
+    "population_female": 97412,
+    "population_density_km": 2413,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "15090",
+    "name": "Stendal",
+    "area": 2423.41,
+    "population_male": 55278,
+    "population_female": 56704,
+    "population_density_km": 931,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "15091",
+    "name": "Wittenberg",
+    "area": 1930.4800000000002,
+    "population_male": 61933,
+    "population_female": 63907,
+    "population_density_km": 600,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16051",
+    "name": "Erfurt, Stadt",
+    "area": 269.91,
+    "population_male": 103920,
+    "population_female": 109779,
+    "population_density_km": 792,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16052",
+    "name": "Gera, Stadt",
+    "area": 152.18,
+    "population_male": 45517,
+    "population_female": 48635,
+    "population_density_km": 619,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16053",
+    "name": "Jena, Stadt",
+    "area": 114.77,
+    "population_male": 55665,
+    "population_female": 55742,
+    "population_density_km": 971,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16054",
+    "name": "Suhl, Stadt",
+    "area": 141.62,
+    "population_male": 18021,
+    "population_female": 18934,
+    "population_density_km": 261,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16055",
+    "name": "Weimar, Stadt",
+    "area": 84.48,
+    "population_male": 31655,
+    "population_female": 33435,
+    "population_density_km": 770,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16056",
+    "name": "Eisenach, Stadt",
+    "area": 104.17,
+    "population_male": 20874,
+    "population_female": 21496,
+    "population_density_km": 407,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16061",
+    "name": "Eichsfeld",
+    "area": 943.08,
+    "population_male": 50364,
+    "population_female": 50016,
+    "population_density_km": 5880,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16062",
+    "name": "Nordhausen",
+    "area": 713.8899999999999,
+    "population_male": 41477,
+    "population_female": 42345,
+    "population_density_km": 1324,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16063",
+    "name": "Wartburgkreis",
+    "area": 1266.98,
+    "population_male": 59860,
+    "population_female": 59866,
+    "population_density_km": 3338,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16064",
+    "name": "Unstrut-Hainich-Kreis",
+    "area": 979.6900000000003,
+    "population_male": 51119,
+    "population_female": 51793,
+    "population_density_km": 2011,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16065",
+    "name": "Kyffhäuserkreis",
+    "area": 1037.89,
+    "population_male": 37274,
+    "population_female": 37735,
+    "population_density_km": 1751,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16066",
+    "name": "Schmalkalden-Meiningen",
+    "area": 1251.18,
+    "population_male": 62851,
+    "population_female": 62795,
+    "population_density_km": 3131,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16067",
+    "name": "Gotha",
+    "area": 936.0900000000001,
+    "population_male": 67468,
+    "population_female": 67984,
+    "population_density_km": 3456,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16068",
+    "name": "Sömmerda",
+    "area": 806.8700000000002,
+    "population_male": 34762,
+    "population_female": 34893,
+    "population_density_km": 2863,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16069",
+    "name": "Hildburghausen",
+    "area": 938.4100000000002,
+    "population_male": 31766,
+    "population_female": 31787,
+    "population_density_km": 1764,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16070",
+    "name": "Ilm-Kreis",
+    "area": 805.1200000000001,
+    "population_male": 53572,
+    "population_female": 53050,
+    "population_density_km": 1455,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16071",
+    "name": "Weimarer Land",
+    "area": 804.48,
+    "population_male": 40645,
+    "population_female": 41302,
+    "population_density_km": 3373,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16072",
+    "name": "Sonneberg",
+    "area": 460.84000000000003,
+    "population_male": 28768,
+    "population_female": 29642,
+    "population_density_km": 969,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16073",
+    "name": "Saalfeld-Rudolstadt",
+    "area": 1008.7699999999996,
+    "population_male": 51293,
+    "population_female": 52849,
+    "population_density_km": 2092,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16074",
+    "name": "Saale-Holzland-Kreis",
+    "area": 815.26,
+    "population_male": 41360,
+    "population_female": 41691,
+    "population_density_km": 8661,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16075",
+    "name": "Saale-Orla-Kreis",
+    "area": 1151.3200000000002,
+    "population_male": 40119,
+    "population_female": 40749,
+    "population_density_km": 3515,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16076",
+    "name": "Greiz",
+    "area": 845.95,
+    "population_male": 48326,
+    "population_female": 49833,
+    "population_density_km": 4256,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "16077",
+    "name": "Altenburger Land",
+    "area": 569.4,
+    "population_male": 44138,
+    "population_female": 45980,
+    "population_density_km": 3772,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "11012",
+    "name": "Berlin Reinickendorf",
+    "area": 89.0,
+    "population_male": 130170,
+    "population_female": 134656,
+    "population_density_km": 2977,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "11011",
+    "name": "Berlin Lichtenberg",
+    "area": 51.9,
+    "population_male": 144491,
+    "population_female": 146002,
+    "population_density_km": 5592,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "11010",
+    "name": "Berlin Marzahn-Hellersdorf",
+    "area": 61.6,
+    "population_male": 133358,
+    "population_female": 135381,
+    "population_density_km": 4363,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "11009",
+    "name": "Berlin Treptow-Köpenick",
+    "area": 167.0,
+    "population_male": 132290,
+    "population_female": 137485,
+    "population_density_km": 1614,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "11008",
+    "name": "Berlin Neukölln",
+    "area": 44.8,
+    "population_male": 164980,
+    "population_female": 165806,
+    "population_density_km": 7388,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "11007",
+    "name": "Berlin Tempelhof-Schöneberg",
+    "area": 52.9,
+    "population_male": 172330,
+    "population_female": 179099,
+    "population_density_km": 6642,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "11006",
+    "name": "Berlin Steglitz-Zehlendorf",
+    "area": 102.0,
+    "population_male": 145723,
+    "population_female": 162354,
+    "population_density_km": 3016,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "11005",
+    "name": "Berlin Spandau",
+    "area": 91.5,
+    "population_male": 118913,
+    "population_female": 124167,
+    "population_density_km": 2657,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "11004",
+    "name": "Berlin Charlottenburg-Wilmersdorf",
+    "area": 64.5,
+    "population_male": 165435,
+    "population_female": 175892,
+    "population_density_km": 5296,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "11003",
+    "name": "Berlin Pankow",
+    "area": 103.0,
+    "population_male": 199899,
+    "population_female": 207140,
+    "population_density_km": 3963,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "11002",
+    "name": "Berlin Friedrichshain-Kreuzberg",
+    "area": 20.3,
+    "population_male": 148539,
+    "population_female": 140581,
+    "population_density_km": 14276,
+    "lastUpdate": "2018-12-31"
+  },
+  {
+    "ags": "11001",
+    "name": "Berlin Mitte",
+    "area": 39.3,
+    "population_male": 199120,
+    "population_female": 184337,
+    "population_density_km": 9752,
+    "lastUpdate": "2018-12-31"
+  }
+]
